@@ -1,0 +1,24 @@
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+
+    Scanner scanner = new Scanner(System.in);
+
+        System.out.println("välkommen till ze library");
+        switch () {
+            case x:
+            case y:
+            case h:
+            default:
+
+        }
+
+    }
+
+
+
+
+
+
+}
